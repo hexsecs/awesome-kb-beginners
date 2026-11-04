@@ -1,0 +1,32 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-beginners",
+  "uid": "01a1a887-61fa-7f43-9c18-c0dd978082d0",
+  "title": "Beginner-friendly projects (Awesome KB)",
+  "description": "Beginner-friendly open-source projects collected in MunGell/awesome-for-beginners. One source-attributed stub per listed entry.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC0-1.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "awesome",
+    "beginners",
+    "curated-list"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:MunGell/awesome-for-beginners",
+    "file": "README.md",
+    "tool": "tools/ingest.py",
+    "source_commit": "f7bf7d43cb26d555e51a4c6c83af563a08795605"
+  }
+}

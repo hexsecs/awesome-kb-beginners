@@ -1,0 +1,44 @@
+# Python
+
+- [activist](activist.md) — activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+- [Ansible](ansible.md) — A simple IT automation platform
+- [ArviZ](arviz.md) — Exploratory Analysis of Bayesian Models.
+- [BeeWare Briefcase](beeware-briefcase.md) — Turn Python projects into distributable native applications across desktop and mobile platforms.
+- [Bokeh](bokeh.md) — Bokeh is an interactive visualization library for modern web browsers.
+- [BorgBackup](borgbackup.md) — Deduplicating backup program with compression and authenticated encryption.
+- [CiviWiki](civiwiki.md) — Building a Better Democracy for the Internet Age
+- [Colossal-AI](colossal-ai.md) — An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+- [cookiecutter](cookiecutter.md) — A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [datascience](datascience.md) — A Jupyter notebook Python library for introductory data science.
+- [Devopness](devopness.md) — Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+- [django cookiecutter](django-cookiecutter.md) — An implementation of Python for backend web development.
+- [DocsGPT](docsgpt.md) — Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
+- [Fabric](fabric.md) — Pythonic remote execution and deployment.
+- [FastAPI](fastapi.md) — A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [fenn](fenn.md) — A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.
+- [H2O Wave](h2o-wave.md) — Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+- [Harmony](harmony.md) — Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training…
+- [jarvis](jarvis.md) — A personal assistant for Linux, MacOs and Windows based on Command line Interface.
+- [Jupyter notebook](jupyter-notebook.md) — Jupyter interactive notebook.
+- [Kinto](kinto.md) — A lightweight JSON storage service with synchronisation and sharing abilities.
+- [matplotlib](matplotlib.md) — Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [Mem0](mem0.md) — Mem0 is a memory framework for LLM applications.
+- [mindshub](mindshub.md) — MindsDB is an open source AI layer for existing databases.
+- [mitmproxy](mitmproxy.md) — An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [mygpo](mygpo.md) — The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+- [mypy](mypy.md) — Optional static typing for Python.
+- [OMRChecker](omrchecker.md) — OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to…
+- [OpenMetadata](openmetadata-2.md) — OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [Oppia](oppia-2.md) — Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a…
+- [opsdroid](opsdroid.md) — An open source chat-ops bot framework.
+- [pandas](pandas.md) — Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical…
+- [PyMC](pymc.md) — A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
+- [Pytest](pytest.md) — The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+- [Python Babel](python-babel.md) — The Python Internationalization Library.
+- [Pytorch](pytorch.md) — PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [SaltStack](saltstack.md) — Software to automate the management and configuration of any infrastructure or application at scale.
+- [scikit-learn](scikit-learn.md) — Scikit-learn is a machine learning library for Python.
+- [scrapy](scrapy.md) — A fast high-level web crawling & scraping framework for Python.
+- [SymPy](sympy.md) — A Python library for symbolic mathematics.
+- [wemake-python-styleguide](wemake-python-styleguide.md) — The strictest and most opinionated python linter ever!
+- [Zulip](zulip.md) — Powerful open source group chat.
