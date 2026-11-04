@@ -1,0 +1,32 @@
+# TypeScript
+
+- [activist](activist-2.md) — activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+- [Amplication](amplication.md) — Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [appsmith](appsmith-2.md) — Drag & Drop internal tool builder
+- [Berry - Active development trunk for Yarn](berry-active-development-trunk-for-yarn-2.md) — Fast, reliable, and secure dependency management.
+- [Booster](booster.md) — A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+- [Devopness](devopness-2.md) — Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+- [DevShelf](devshelf-2.md) — A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+- [DocsGPT](docsgpt-2.md) — Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
+- [H2O Wave](h2o-wave-2.md) — Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+- [Hasura GraphQL Engine](hasura-graphql-engine-2.md) — Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [Impler.io](impler-io.md) — 100% open source data import experience with readymade CSV & Excel import widget 🚀
+- [IterTools TS](itertools-ts.md) — Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+- [LinksHub](linkshub.md) — LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
+- [LitmusChaos](litmuschaos.md) — Litmus is a toolset to do cloud-native chaos engineering.
+- [Manifest](manifest.md) — Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
+- [Metabase](metabase-2.md) — Open source business intelligence and analytics platform
+- [OffPDF](offpdf-2.md) — An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
+- [OpenMetadata](openmetadata-3.md) — OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [Oppia](oppia-3.md) — Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a…
+- [Readest](readest-2.md) — A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
+- [reatom](reatom.md) — Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+- [SigNoz](signoz-2.md) — An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99…
+- [Storybook JS](storybook-js-2.md) — Storybook is a frontend workshop for building UI components and pages in isolation.
+- [supabase](supabase.md) — The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [tinyhttp](tinyhttp.md) — A 0-legacy, tiny & fast web framework as a replacement of Express.
+- [TypeScript](typescript.md) — A superset of JavaScript that compiles to clean JavaScript output.
+- [typescript-eslint](typescript-eslint.md) — Monorepo for all the tooling which enables ESLint to support TypeScript.
+- [Visual Studio Code](visual-studio-code.md) — A code editor redefined and optimized for building and debugging modern web and cloud applications.
+- [Vite](vite-2.md) — Next generation frontend tooling. It's fast! Alternative to Create React App
+- [Vitest](vitest.md) — A blazing fast unit test framework powered by Vite.

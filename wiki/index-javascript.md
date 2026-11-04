@@ -1,0 +1,69 @@
+# JavaScript
+
+- [altair](altair.md) — A beautiful feature-rich GraphQL Client for all platforms.
+- [Ancient Beast](ancient-beast.md) — Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [appsmith](appsmith.md) — Drag & Drop internal tool builder
+- [Babel](babel.md) — A compiler for writing next generation JavaScript.
+- [Berry - Active development trunk for Yarn](berry-active-development-trunk-for-yarn.md) — Fast, reliable, and secure dependency management.
+- [Botpress](botpress.md) — The only sane way to build great bots.
+- [Brave Browser](brave-browser.md) — Desktop browser for macOS, Windows, and Linux.
+- [Check It Out](check-it-out.md) — Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
+- [Create React App](create-react-app.md) — Create React apps with no build configuration.
+- [cypress](cypress.md) — Fast, easy and reliable testing for anything that runs in a browser.
+- [Decap CMS](decap-cms.md) — Open source content management for your git workflow.
+- [DevShelf](devshelf.md) — A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
+- [electron](electron-2.md) — Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [Ember.js](ember-js.md) — A JavaScript framework for creating ambitious web applications.
+- [ESLint](eslint.md) — A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [eslint-plugin-unicorn](eslint-plugin-unicorn.md) — Awesome ESLint rules.
+- [Fastify](fastify.md) — Fast and low overhead web framework, for Node.js.
+- [freeCodeCamp](freecodecamp.md) — Open source codebase and curriculum. Learn to code and help nonprofits.
+- [Gatsby.js](gatsby-js.md) — Build blazing fast, modern apps and websites with React.
+- [Ghost](ghost.md) — Just a blogging platform
+- [grommet](grommet.md) — a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+- [Habitica](habitica.md) — Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node…
+- [HMPL](hmpl.md) — Server-oriented customizable templating for JavaScript.
+- [Hoppscotch](hoppscotch.md) — A free, fast and beautiful API request builder.
+- [HueHive](huehive.md) — An open source react native app iOS and android for color palette management
+- [iD](id.md) — The easy-to-use OpenStreetMap editor in JavaScript.
+- [ImprovedTube](improvedtube-2.md) — A powerful but lightweight extension, to enrich your video experience & enable your content selection.
+- [Jasmine](jasmine.md) — Simple JavaScript testing framework for browsers and node.js.
+- [Jest](jest.md) — A complete and easy to set up JavaScript testing solution.
+- [Kinto.js](kinto-js.md) — An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
+- [Leaflet](leaflet.md) — JavaScript library for mobile-friendly interactive maps.
+- [material-ui](material-ui.md) — React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Mattermost](mattermost-2.md) — Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
+- [Meteor](meteor.md) — Meteor is an ultra-simple environment for building modern web applications.
+- [Mocha](mocha.md) — Javascript test framework for Node.js and the browser.
+- [Moment.js](moment-js.md) — A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [name-suggestion-index](name-suggestion-index.md) — Canonical common brand names for OpenStreetMap
+- [NativeScript](nativescript.md) — NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS…
+- [Next.js](next-js.md) — A minimalistic framework for universal server-rendered React applications
+- [Node.js core](node-js-core.md) — JavaScript runtime built on Chrome's V8 JavaScript engine
+- [nuclear](nuclear.md) — Multiplatform music player that streams from free sources.
+- [p5.js](p5-js.md) — p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+- [pixi.js](pixi-js.md) — A 2D JavaScript Renderer
+- [Posnic](posnic-2.md) — Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
+- [PouchDB](pouchdb.md) — PouchDB is a pocket-sized database.
+- [ramda-adjunct](ramda-adjunct.md) — Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested…
+- [Rawsec Cybersecurity Inventory](rawsec-cybersecurity-inventory.md) — An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
+- [React](react.md) — A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [React Native](react-native.md) — A framework for building native apps with React.
+- [ReactiveSearch](reactivesearch.md) — A UI components library for Elasticsearch: Available for React, Vue and React Native.
+- [reactjs.org](reactjs-org.md) — The documentation website for reactjs
+- [serverless](serverless.md) — The Serverless Framework
+- [Storybook JS](storybook-js.md) — Storybook is a frontend workshop for building UI components and pages in isolation.
+- [stryker](stryker.md) — The JavaScript mutation testing framework
+- [Svelte](svelte.md) — Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
+- [swag-for-dev](swag-for-dev.md) — Swag opportunities for developers.
+- [The Odin Project Curriculum](the-odin-project-curriculum.md) — An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content…
+- [Time to Leave](time-to-leave.md) — Working hours time tracker app based on Electron and Javascript.
+- [Vest](vest.md) — Validations framework inspired by unit testing frameworks.
+- [Video Hub App](video-hub-app.md) — Angular & Electron app for browsing and searching videos on your PC.
+- [Video.js](video-js.md) — The player framework
+- [Vite](vite.md) — Next generation frontend tooling. It's fast! Alternative to Create React App
+- [Vue Router](vue-router.md) — The official router for Vue.js.
+- [Vue.js](vue-js.md) — The Progressive JavaScript Framework.
+- [VuePress](vuepress.md) — Minimalistic Vue-powered static site generator
+- [WarpDrive](warpdrive.md) — A data persistence library for Ember.js.
+- [webdriver.io](webdriver-io.md) — Next-gen browser and mobile automation test framework for Node.js
